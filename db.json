@@ -5,7 +5,7 @@
       "nome":"Silvano",
       "cognome":"Battaglia",
       "mansione":"Capo Macchina",
-      "macchina": "t6",
+      "macchina": "T6",
       "turno":1
     },
     {
@@ -13,7 +13,7 @@
       "nome":"Costel",
       "cognome":"Ivan",
       "mansione":"Secondo",
-      "macchina": "t6",
+      "macchina": "T6",
       "turno":1
     },
     {
@@ -21,7 +21,7 @@
       "nome":"Eric",
       "cognome":"Echego",
       "mansione":"Stackerista",
-      "macchina": "t6",
+      "macchina": "T6",
       "turno":1
     }
   ]
