@@ -3,17 +3,26 @@
     {
       "id":654,
       "nome":"Silvano",
-      "cognome":"Battaglia"
+      "cognome":"Battaglia",
+      "mansione":"Capo Macchina",
+      "macchina": "t6",
+      "turno":1
     },
     {
       "id":6512,
       "nome":"Costel",
-      "cognome":"Ivan"
+      "cognome":"Ivan",
+      "mansione":"Secondo",
+      "macchina": "t6",
+      "turno":1
     },
     {
       "id":65333,
       "nome":"Eric",
-      "cognome":"Echego"
+      "cognome":"Echego",
+      "mansione":"Stakerista",
+      "macchina": "t6",
+      "turno":1
     }
   ]
 }
