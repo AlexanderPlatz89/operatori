@@ -1,6 +1,7 @@
 {
   "rotativa": [
     {
+      "id":1,
       "macchina": "T6",
       "turno": 1,
       "nome": "Ivan",
@@ -8,6 +9,7 @@
       "mansione": "Capo Macchina"
     },
     {
+      "id":2,
       "macchina": "T6",
       "turno": 2,
       "nome": "Daniele",
@@ -15,6 +17,7 @@
       "mansione": "Capo Macchina"
     },
     {
+      "id":3,
       "macchina": "T6",
       "turno": 1,
       "nome": "Daniel Puentes",
@@ -28,6 +31,7 @@
       "mansione": "Stackerista"
     },
     {
+      "id":4,
       "macchina": "T6",
       "turno": 2,
       "nome": "Gabriel",
@@ -35,6 +39,7 @@
       "mansione": "Secondo"
     },
     {
+      "id":5,
       "macchina": "T6",
       "turno": 2,
       "nome": "Davie",
@@ -42,6 +47,7 @@
       "mansione": "Stackerista/Secondo"
     },
     {
+      "id":6,
       "macchina": "T6",
       "turno": 3,
       "nome": "Mauro",
@@ -49,6 +55,7 @@
       "mansione": "Capo Macchina"
     },
     {
+      "id":7,
       "macchina": "T6",
       "turno": 3,
       "nome": "Cristian",
@@ -56,6 +63,7 @@
       "mansione": "Secondo/Stackerista"
     },
     {
+      "id":8,
       "macchina": "T6",
       "turno": 3,
       "nome": "Raffaele",
@@ -63,6 +71,7 @@
       "mansione": "Secondo/Stackerista"
     },
     {
+      "id":9,
       "macchina": "T5",
       "turno": 1,
       "nome": "Silvano",
@@ -70,6 +79,7 @@
       "mansione": "Capo Macchina"
     },
     {
+      "id":10,
       "macchina": "T5",
       "turno": 1,
       "nome": "Maurizio",
@@ -77,6 +87,7 @@
       "mansione": "Secondo"
     },
     {
+      "id":11,
       "macchina": "T5",
       "turno": 1,
       "nome": "Matteo",
@@ -84,6 +95,7 @@
       "mansione": "Stackerista"
     },
     {
+      "id":12,
       "macchina": "T5",
       "turno": 2,
       "nome": "Aronne",
@@ -91,6 +103,7 @@
       "mansione": "Capo Macchina"
     },
     {
+      "id":13,
       "macchina": "T5",
       "turno": 2,
       "nome": "Tony",
@@ -98,6 +111,7 @@
       "mansione": "Stackerista"
     },
     {
+      "id":14,
       "macchina": "T5",
       "turno": 2,
       "nome": "Salvatore",
@@ -105,6 +119,7 @@
       "mansione": "Secondo"
     },
     {
+      "id":15,
       "macchina": "T5",
       "turno": 3,
       "nome": "Andrea",
@@ -112,6 +127,7 @@
       "mansione": "Capo Macchina"
     },
     {
+      "id":16,
       "macchina": "T5",
       "turno": 3,
       "nome": "Francesco",
@@ -119,6 +135,7 @@
       "mansione": "Secondo"
     },
     {
+      "id":17,
       "macchina": "T5",
       "turno": 3,
       "nome": "Giacomo",
@@ -126,6 +143,7 @@
       "mansione": "Stackerista"
     },
     {
+      "id":18,
       "macchina": "T4",
       "turno": 1,
       "nome": "Dino",
@@ -133,6 +151,7 @@
       "mansione": "Capo Macchina"
     },
      {
+       "id":19,
       "macchina": "T4",
       "turno": 1,
       "nome": "Rubben",
@@ -140,6 +159,7 @@
       "mansione": "Secondo/Stackerista"
     },
      {
+       "id":20,
       "macchina": "T4",
       "turno": 2,
       "nome": "Nicolae",
@@ -147,6 +167,7 @@
       "mansione": "Capo Macchina"
     },
      {
+       "id":21,
       "macchina": "T4",
       "turno": 2,
       "nome": "Daniele",
@@ -154,6 +175,7 @@
       "mansione": "Secondo/Stackerista"
     },
      {
+       "id":22,
       "macchina": "T4",
       "turno": 3,
       "nome": "Marco",
@@ -161,6 +183,7 @@
       "mansione": "Capo Macchina"
     },
      {
+       "id":23,
       "macchina": "T4",
       "turno": 3,
       "nome": "Roberto",
