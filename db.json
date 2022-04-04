@@ -1,28 +1,171 @@
 {
   "rotativa": [
     {
-      "id":654,
-      "nome":"Silvano",
-      "cognome":"Battaglia",
-      "mansione":"Capo Macchina",
       "macchina": "T6",
-      "turno":1
+      "turno": 1,
+      "nome": "Ivan",
+      "cognome": "Coster",
+      "mansione": "Capo Macchina"
     },
     {
-      "id":6512,
-      "nome":"Costel",
-      "cognome":"Ivan",
-      "mansione":"Secondo",
       "macchina": "T6",
-      "turno":1
+      "turno": 2,
+      "nome": "Daniele",
+      "cognome": "Schirru",
+      "mansione": "Capo Macchina"
     },
     {
-      "id":65333,
-      "nome":"Eric",
-      "cognome":"Echego",
-      "mansione":"Stackerista",
       "macchina": "T6",
-      "turno":1
+      "turno": 1,
+      "nome": "Daniel Puentes",
+      "cognome": "Benavides Ganzales",
+      "mansione": "Secondo"
+    },{
+      "macchina": "T6",
+      "turno": 1,
+      "nome": "Eric Ernesto",
+      "cognome": "Echegoyen Alas",
+      "mansione": "Stackerista"
+    },
+    {
+      "macchina": "T6",
+      "turno": 2,
+      "nome": "Gabriel",
+      "cognome": "Jovel",
+      "mansione": "Secondo"
+    },
+    {
+      "macchina": "T6",
+      "turno": 2,
+      "nome": "Davie",
+      "cognome": "Tenti",
+      "mansione": "Stackerista/Secondo"
+    },
+    {
+      "macchina": "T6",
+      "turno": 3,
+      "nome": "Mauro",
+      "cognome": "??",
+      "mansione": "Capo Macchina"
+    },
+    {
+      "macchina": "T6",
+      "turno": 3,
+      "nome": "Cristian",
+      "cognome": "Cioppi De Cicco",
+      "mansione": "Secondo/Stackerista"
+    },
+    {
+      "macchina": "T6",
+      "turno": 3,
+      "nome": "Raffaele",
+      "cognome": "Guadagno",
+      "mansione": "Secondo/Stackerista"
+    },
+    {
+      "macchina": "T5",
+      "turno": 1,
+      "nome": "Silvano",
+      "cognome": "Battaglia",
+      "mansione": "Capo Macchina"
+    },
+    {
+      "macchina": "T5",
+      "turno": 1,
+      "nome": "Maurizio",
+      "cognome": "Tanzi",
+      "mansione": "Secondo"
+    },
+    {
+      "macchina": "T5",
+      "turno": 1,
+      "nome": "Matteo",
+      "cognome": "Talamona",
+      "mansione": "Stackerista"
+    },
+    {
+      "macchina": "T5",
+      "turno": 2,
+      "nome": "Aronne",
+      "cognome": "Orlandi",
+      "mansione": "Capo Macchina"
+    },
+    {
+      "macchina": "T5",
+      "turno": 2,
+      "nome": "Tony",
+      "cognome": "Cornejo",
+      "mansione": "Stackerista"
+    },
+    {
+      "macchina": "T5",
+      "turno": 2,
+      "nome": "Salvatore",
+      "cognome": "Pucci",
+      "mansione": "Secondo"
+    },
+    {
+      "macchina": "T5",
+      "turno": 3,
+      "nome": "Andrea",
+      "cognome": "Meloni",
+      "mansione": "Capo Macchina"
+    },
+    {
+      "macchina": "T5",
+      "turno": 3,
+      "nome": "Francesco",
+      "cognome": "Zambotti",
+      "mansione": "Secondo"
+    },
+    {
+      "macchina": "T5",
+      "turno": 3,
+      "nome": "Giacomo",
+      "cognome": "Rania",
+      "mansione": "Stackerista"
+    },
+    {
+      "macchina": "T4",
+      "turno": 1,
+      "nome": "Dino",
+      "cognome": "Petruscu",
+      "mansione": "Capo Macchina"
+    },
+     {
+      "macchina": "T4",
+      "turno": 1,
+      "nome": "Rubben",
+      "cognome": "Scalzillo",
+      "mansione": "Secondo/Stackerista"
+    },
+     {
+      "macchina": "T4",
+      "turno": 2,
+      "nome": "Nicolae",
+      "cognome": "Batog",
+      "mansione": "Capo Macchina"
+    },
+     {
+      "macchina": "T4",
+      "turno": 2,
+      "nome": "Daniele",
+      "cognome": "Buzzone",
+      "mansione": "Secondo/Stackerista"
+    },
+     {
+      "macchina": "T4",
+      "turno": 3,
+      "nome": "Marco",
+      "cognome": "Cavicchioli",
+      "mansione": "Capo Macchina"
+    },
+     {
+      "macchina": "T4",
+      "turno": 3,
+      "nome": "Roberto",
+      "cognome": "Radici",
+      "mansione": "Stackerista"
     }
   ]
 }
